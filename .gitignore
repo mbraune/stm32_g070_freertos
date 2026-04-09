@@ -1,0 +1,26 @@
+# Build outputs
+Debug/
+Release/
+build/
+*.bin
+*.hex
+*.elf
+*.map
+
+# IDE metadata
+.settings/
+.metadata/
+*.launch
+
+# Compiler outputs
+*.o
+*.obj
+*.lst
+*.su
+
+# CubeMX backups
+*.ioc-backup
+
+# OS files
+.DS_Store
+Thumbs.db
